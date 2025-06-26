@@ -6,3 +6,4 @@ You cannot play WASM-GC versions on browsers older than 2017.
 
 ![image](https://github.com/user-attachments/assets/a8745342-5d66-48ae-b724-52e1887aa59c)
 ![image](https://github.com/user-attachments/assets/0748b8a7-07a2-40ba-a510-bbfb6038b161)
+![image](https://github.com/user-attachments/assets/0a5b3d95-8135-43c4-8191-fcfa88ea8afb)
