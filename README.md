@@ -3,3 +3,5 @@ To play a live version of this code in your browser simply replace github.com in
 After this is done your link should look like this: https://raw.githack.com/cfflmtyh/Eaglercraft-File-List/main/1.8.8.html
 
 You cannot play WASM-GC versions on browsers older than 2017.
+
+![image](https://github.com/user-attachments/assets/a8745342-5d66-48ae-b724-52e1887aa59c)
